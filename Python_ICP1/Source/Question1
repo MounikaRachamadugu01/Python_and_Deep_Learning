@@ -1,0 +1,13 @@
+Differences between Python 2 and Python 3 version:
+1) Print Statement:
+   In Python2, Print is a statement rather than a function.
+   In Python3, Print statement is a built-in function where the text is enclosed in the parenthesis.
+2) String type:
+   In Python2, ASCII format is the default string type.
+   In Python3, Unicode format is the default string type
+3)Division Arithmetic Operation:
+   In Python2, division operation gives you the nearest whole number.
+   In Python3, division operation gives you the expected result.
+4)Iteration:
+   In Python2, xrange() function is used to perform iterations.
+   In Python2, range() function is introduced to perform iterations.
