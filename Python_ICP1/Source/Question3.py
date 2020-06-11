@@ -2,5 +2,5 @@
 
 # Taking input string
 str = input("Enter your input string:")
-# Replacing the word in the string and displaying
-print("After replacing the word, the input string is changed as ", str.replace("python", "Pythons"))
+# Replacing the word in the string and displaying the string
+print("After replacing the word, the input string is changed as ", str.replace("python", "pythons"))
